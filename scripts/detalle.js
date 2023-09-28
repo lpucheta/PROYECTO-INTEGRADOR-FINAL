@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", () => {
     const selectedProductId = localStorage.getItem("selectedProduct");
     if (!selectedProductId) {
-        // Si no hay producto seleccionado, redirigir a la página principal
+        // Si no hay producto seleccionado redirigir a la página principal
         window.location.href = "index.html";
     } else {
         fetch("productos.json")
@@ -16,6 +16,7 @@ document.addEventListener("DOMContentLoaded", () => {
                         <img src="${selectedProduct.imagen}" alt="${selectedProduct.nombre}">
                         <p>${selectedProduct.detalle}</p>
                         <p>Precio: $${selectedProduct.precio}</p>
+                        <p>Calificacion: ${selectedProduct.calificacion}</p>
                         <a href="index.html">Volver a la página principal</a>
                     `;
                     productDetail.innerHTML = productHTML;

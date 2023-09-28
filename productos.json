@@ -1,56 +1,56 @@
 [
     {
         "id": "1",
-        "nombre": "Air Force",
-        "descripcion": "Aqui una breve descripcion del producto 1",
+        "nombre": "Vans",
+        "descripcion": "Estos zapatos son el equilibrio perfecto entre estilo y comodidad, un compañero confiable para cada paso de tu día",
         "imagen": "../media/zapatilla-uno.jpg",
-        "detalle": "Aqui una descripcion mas detallada del producto para mostrar en el archivo detalle",
-        "precio": "50",
-        "calificacion": "******" 
+        "detalle": "Estos excepcionales zapatos personifican la fusión de estilo y comodidad en su máxima expresión. Con su diseño elegante y moderno, se destacan en cualquier ocasión, ya sea una reunión de negocios o una salida casual con amigos. Su artesanía meticulosa garantiza durabilidad y ajuste perfecto, brindando un soporte incomparable durante todo el día. La suela ergonómica reduce la fatiga y se adapta a tu pisada, mientras que el material transpirable mantiene tus pies frescos. Estos zapatos no solo son un accesorio de moda, sino también una inversión en tu bienestar. Experimenta la confianza y el confort sin igual que solo estos zapatos pueden ofrecer",
+        "precio": "150",
+        "calificacion": "★★★★★" 
     },
     {
         "id": "2",
         "nombre": "Janoski",
-        "descripcion": "Aqui una breve descripcion del producto 2",
+        "descripcion": "Estos zapatos son el equilibrio perfecto entre estilo y comodidad, un compañero confiable para cada paso de tu día",
         "imagen": "../media/zapatilla-dos.jpg",
-        "detalle": "Aqui una descripcion mas detallada del producto para mostrar en el archivo detalle",
+        "detalle": "Estos excepcionales zapatos personifican la fusión de estilo y comodidad en su máxima expresión. Con su diseño elegante y moderno, se destacan en cualquier ocasión, ya sea una reunión de negocios o una salida casual con amigos. Su artesanía meticulosa garantiza durabilidad y ajuste perfecto, brindando un soporte incomparable durante todo el día. La suela ergonómica reduce la fatiga y se adapta a tu pisada, mientras que el material transpirable mantiene tus pies frescos. Estos zapatos no solo son un accesorio de moda, sino también una inversión en tu bienestar. Experimenta la confianza y el confort sin igual que solo estos zapatos pueden ofrecer",
         "precio": "50",
-        "calificacion": "******" 
+        "calificacion": "★★★" 
     },
     {
         "id": "3",
         "nombre": "SuperStar",
-        "descripcion": "Aqui una breve descripcion del producto 3",
+        "descripcion": "Estos zapatos son el equilibrio perfecto entre estilo y comodidad, un compañero confiable para cada paso de tu día",
         "imagen": "../media/zapatilla-tres.jpg",
-        "detalle": "Aqui una descripcion mas detallada del producto para mostrar en el archivo detalle",
-        "precio": "50",
-        "calificacion": "******" 
+        "detalle": "Estos excepcionales zapatos personifican la fusión de estilo y comodidad en su máxima expresión. Con su diseño elegante y moderno, se destacan en cualquier ocasión, ya sea una reunión de negocios o una salida casual con amigos. Su artesanía meticulosa garantiza durabilidad y ajuste perfecto, brindando un soporte incomparable durante todo el día. La suela ergonómica reduce la fatiga y se adapta a tu pisada, mientras que el material transpirable mantiene tus pies frescos. Estos zapatos no solo son un accesorio de moda, sino también una inversión en tu bienestar. Experimenta la confianza y el confort sin igual que solo estos zapatos pueden ofrecer",
+        "precio": "550",
+        "calificacion": "★★★★" 
     },
     {
         "id": "4",
         "nombre": "Duke",
-        "descripcion": "Aqui una breve descripcion del producto 4",
+        "descripcion": "Estos zapatos son el equilibrio perfecto entre estilo y comodidad, un compañero confiable para cada paso de tu día",
         "imagen": "../media/zapatilla-cuatro.jpg",
-        "detalle": "Aqui una descripcion mas detallada del producto para mostrar en el archivo detalle",
-        "precio": "50",
-        "calificacion": "******" 
+        "detalle": "Estos excepcionales zapatos personifican la fusión de estilo y comodidad en su máxima expresión. Con su diseño elegante y moderno, se destacan en cualquier ocasión, ya sea una reunión de negocios o una salida casual con amigos. Su artesanía meticulosa garantiza durabilidad y ajuste perfecto, brindando un soporte incomparable durante todo el día. La suela ergonómica reduce la fatiga y se adapta a tu pisada, mientras que el material transpirable mantiene tus pies frescos. Estos zapatos no solo son un accesorio de moda, sino también una inversión en tu bienestar. Experimenta la confianza y el confort sin igual que solo estos zapatos pueden ofrecer",
+        "precio": "500",
+        "calificacion": "★★★★★" 
     },
     {
         "id": "5",
         "nombre": "Balance",
-        "descripcion": "Aqui una breve descripcion del producto 5",
+        "descripcion": "Estos zapatos son el equilibrio perfecto entre estilo y comodidad, un compañero confiable para cada paso de tu día",
         "imagen": "../media/zapatilla-cinco.jpg",
-        "detalle": "Aqui una descripcion mas detallada del producto para mostrar en el archivo detalle",
-        "precio": "50",
-        "calificacion": "******" 
+        "detalle": "Estos excepcionales zapatos personifican la fusión de estilo y comodidad en su máxima expresión. Con su diseño elegante y moderno, se destacan en cualquier ocasión, ya sea una reunión de negocios o una salida casual con amigos. Su artesanía meticulosa garantiza durabilidad y ajuste perfecto, brindando un soporte incomparable durante todo el día. La suela ergonómica reduce la fatiga y se adapta a tu pisada, mientras que el material transpirable mantiene tus pies frescos. Estos zapatos no solo son un accesorio de moda, sino también una inversión en tu bienestar. Experimenta la confianza y el confort sin igual que solo estos zapatos pueden ofrecer",
+        "precio": "250",
+        "calificacion": "★★★★★" 
     },
     {
         "id": "6",
         "nombre": "Equi",
-        "descripcion": "Aqui una breve descripcion del producto 6",
+        "descripcion": "Estos zapatos son el equilibrio perfecto entre estilo y comodidad, un compañero confiable para cada paso de tu día",
         "imagen": "../media/zapatilla-seis.jpg",
-        "detalle": "Aqui una descripcion mas detallada del producto para mostrar en el archivo detalle",
-        "precio": "50",
-        "calificacion": "******"
+        "detalle": "Estos excepcionales zapatos personifican la fusión de estilo y comodidad en su máxima expresión. Con su diseño elegante y moderno, se destacan en cualquier ocasión, ya sea una reunión de negocios o una salida casual con amigos. Su artesanía meticulosa garantiza durabilidad y ajuste perfecto, brindando un soporte incomparable durante todo el día. La suela ergonómica reduce la fatiga y se adapta a tu pisada, mientras que el material transpirable mantiene tus pies frescos. Estos zapatos no solo son un accesorio de moda, sino también una inversión en tu bienestar. Experimenta la confianza y el confort sin igual que solo estos zapatos pueden ofrecer",
+        "precio": "150",
+        "calificacion": "★★★★"
     }
 ]

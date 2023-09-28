@@ -1,10 +1,11 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     margin: 0;
     padding: 0;
-    background-color: #f5f5f5;
+    background-color: #eee8e8;
 }
 
+/* Estilos de encabezado */
 header {
     background-color: #333;
     color: white;
@@ -12,11 +13,13 @@ header {
     padding: 20px;
 }
 
+
 main {
     max-width: 800px;
     margin: 0 auto;
     padding: 20px;
 }
+
 
 .product {
     border: 1px solid #ddd;
@@ -31,16 +34,55 @@ main {
     border: none;
     padding: 5px 10px;
     cursor: pointer;
-    float: right;
+    display: inline-block;
+    vertical-align: middle;
 }
 
 .product button:hover {
     background-color: #555;
 }
 
+/* Estilos de imágenes */
 img {
-    max-width: 100px;
-    max-height: 100px;
-    float: left;
-    margin-right: 10px;
+    max-width: 100%; 
+    height: auto; 
+    margin: 0 auto; 
+    display: block; 
+    max-height: 500px;
+    width: 50%;
+}
+
+
+h2 {
+    font-size: 28px; 
+}
+
+
+a {
+    display: block;
+    text-align: center;
+    padding: 10px 0;
+    color: blue;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    margin: 10px auto; 
+    width: fit-content;
+}
+
+a:hover {
+    color: rgb(204, 30, 219);
+}
+
+
+@media (max-width: 768px) {
+    main {
+        padding: 10px; 
+    }
+    h2 {
+        font-size: 24px; 
+    }
+    img {
+        max-width: 100%; 
+    }
 }
