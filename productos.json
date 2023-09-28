@@ -1,7 +1,7 @@
 [
     {
         "id": "1",
-        "nombre": "Nike",
+        "nombre": "Air Force",
         "descripcion": "Aqui una breve descripcion del producto 1",
         "imagen": "../media/zapatilla-uno.jpg",
         "detalle": "Aqui una descripcion mas detallada del producto para mostrar en el archivo detalle",
@@ -10,7 +10,7 @@
     },
     {
         "id": "2",
-        "nombre": "Nike",
+        "nombre": "Janoski",
         "descripcion": "Aqui una breve descripcion del producto 2",
         "imagen": "../media/zapatilla-dos.jpg",
         "detalle": "Aqui una descripcion mas detallada del producto para mostrar en el archivo detalle",
@@ -19,7 +19,7 @@
     },
     {
         "id": "3",
-        "nombre": "Nike",
+        "nombre": "SuperStar",
         "descripcion": "Aqui una breve descripcion del producto 3",
         "imagen": "../media/zapatilla-tres.jpg",
         "detalle": "Aqui una descripcion mas detallada del producto para mostrar en el archivo detalle",
@@ -28,7 +28,7 @@
     },
     {
         "id": "4",
-        "nombre": "Nike",
+        "nombre": "Duke",
         "descripcion": "Aqui una breve descripcion del producto 4",
         "imagen": "../media/zapatilla-cuatro.jpg",
         "detalle": "Aqui una descripcion mas detallada del producto para mostrar en el archivo detalle",
@@ -37,7 +37,7 @@
     },
     {
         "id": "5",
-        "nombre": "Nike",
+        "nombre": "Balance",
         "descripcion": "Aqui una breve descripcion del producto 5",
         "imagen": "../media/zapatilla-cinco.jpg",
         "detalle": "Aqui una descripcion mas detallada del producto para mostrar en el archivo detalle",
@@ -46,7 +46,7 @@
     },
     {
         "id": "6",
-        "nombre": "Nike",
+        "nombre": "Equi",
         "descripcion": "Aqui una breve descripcion del producto 6",
         "imagen": "../media/zapatilla-seis.jpg",
         "detalle": "Aqui una descripcion mas detallada del producto para mostrar en el archivo detalle",
