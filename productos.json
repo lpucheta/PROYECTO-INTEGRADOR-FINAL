@@ -11,45 +11,45 @@
     {
         "id": "2",
         "nombre": "Janoski",
-        "descripcion": "Estos zapatos son el equilibrio perfecto entre estilo y comodidad, un compañero confiable para cada paso de tu día",
+        "descripcion": "Botines rojos, audaces y modernos para destacar en la moda",
         "imagen": "../media/zapatilla-dos.jpg",
-        "detalle": "Estos excepcionales zapatos personifican la fusión de estilo y comodidad en su máxima expresión. Con su diseño elegante y moderno, se destacan en cualquier ocasión, ya sea una reunión de negocios o una salida casual con amigos. Su artesanía meticulosa garantiza durabilidad y ajuste perfecto, brindando un soporte incomparable durante todo el día. La suela ergonómica reduce la fatiga y se adapta a tu pisada, mientras que el material transpirable mantiene tus pies frescos. Estos zapatos no solo son un accesorio de moda, sino también una inversión en tu bienestar. Experimenta la confianza y el confort sin igual que solo estos zapatos pueden ofrecer",
+        "detalle": "¡Descubre las zapatillas perfectas para un estilo de vida activo! Nuestras zapatillas deportivas están diseñadas para brindarte comodidad y rendimiento excepcionales. Con su amortiguación de alta calidad y su suela duradera, te acompañarán en cada paso de tu aventura, desde el gimnasio hasta la pista de running",
         "precio": "50",
         "calificacion": "★★★" 
     },
     {
         "id": "3",
         "nombre": "SuperStar",
-        "descripcion": "Estos zapatos son el equilibrio perfecto entre estilo y comodidad, un compañero confiable para cada paso de tu día",
+        "descripcion": "Mocasines negros, clásicos y versátiles para cualquier ocasión",
         "imagen": "../media/zapatilla-tres.jpg",
-        "detalle": "Estos excepcionales zapatos personifican la fusión de estilo y comodidad en su máxima expresión. Con su diseño elegante y moderno, se destacan en cualquier ocasión, ya sea una reunión de negocios o una salida casual con amigos. Su artesanía meticulosa garantiza durabilidad y ajuste perfecto, brindando un soporte incomparable durante todo el día. La suela ergonómica reduce la fatiga y se adapta a tu pisada, mientras que el material transpirable mantiene tus pies frescos. Estos zapatos no solo son un accesorio de moda, sino también una inversión en tu bienestar. Experimenta la confianza y el confort sin igual que solo estos zapatos pueden ofrecer",
+        "detalle": "¿Quieres lucir a la moda y sentirte cómodo? Nuestras zapatillas urbanas son la elección ideal. Su diseño moderno y elegante se combina a la perfección con cualquier atuendo, desde jeans hasta vestidos. Además, su ajuste ergonómico garantiza comodidad durante todo el día",
         "precio": "550",
         "calificacion": "★★★★" 
     },
     {
         "id": "4",
         "nombre": "Duke",
-        "descripcion": "Estos zapatos son el equilibrio perfecto entre estilo y comodidad, un compañero confiable para cada paso de tu día",
+        "descripcion": "Perfectas para días de verano y playa",
         "imagen": "../media/zapatilla-cuatro.jpg",
-        "detalle": "Estos excepcionales zapatos personifican la fusión de estilo y comodidad en su máxima expresión. Con su diseño elegante y moderno, se destacan en cualquier ocasión, ya sea una reunión de negocios o una salida casual con amigos. Su artesanía meticulosa garantiza durabilidad y ajuste perfecto, brindando un soporte incomparable durante todo el día. La suela ergonómica reduce la fatiga y se adapta a tu pisada, mientras que el material transpirable mantiene tus pies frescos. Estos zapatos no solo son un accesorio de moda, sino también una inversión en tu bienestar. Experimenta la confianza y el confort sin igual que solo estos zapatos pueden ofrecer",
+        "detalle": "Para aquellos que valoran la sostenibilidad, ofrecemos zapatillas eco-friendly. Fabricadas con materiales reciclados y procesos respetuosos con el medio ambiente, son la elección consciente. Cuida el planeta mientras disfrutas de la moda y la comodidad. ¡Únete a la revolución verde con estilo!",
         "precio": "500",
         "calificacion": "★★★★★" 
     },
     {
         "id": "5",
         "nombre": "Balance",
-        "descripcion": "Estos zapatos son el equilibrio perfecto entre estilo y comodidad, un compañero confiable para cada paso de tu día",
+        "descripcion": "Estilo rústico para aventuras al aire libre",
         "imagen": "../media/zapatilla-cinco.jpg",
-        "detalle": "Estos excepcionales zapatos personifican la fusión de estilo y comodidad en su máxima expresión. Con su diseño elegante y moderno, se destacan en cualquier ocasión, ya sea una reunión de negocios o una salida casual con amigos. Su artesanía meticulosa garantiza durabilidad y ajuste perfecto, brindando un soporte incomparable durante todo el día. La suela ergonómica reduce la fatiga y se adapta a tu pisada, mientras que el material transpirable mantiene tus pies frescos. Estos zapatos no solo son un accesorio de moda, sino también una inversión en tu bienestar. Experimenta la confianza y el confort sin igual que solo estos zapatos pueden ofrecer",
+        "detalle": "Para los amantes de la naturaleza, ofrecemos nuestras robustas zapatillas de senderismo. Diseñadas con materiales resistentes al agua y suela antideslizante, te brindarán estabilidad en terrenos accidentados. ¡Explora la naturaleza con confianza y estilo!",
         "precio": "250",
         "calificacion": "★★★★★" 
     },
     {
         "id": "6",
         "nombre": "Equi",
-        "descripcion": "Estos zapatos son el equilibrio perfecto entre estilo y comodidad, un compañero confiable para cada paso de tu día",
+        "descripcion": "Zapatillas deportivas blancas, comodidad para entrenamientos y caminatas",
         "imagen": "../media/zapatilla-seis.jpg",
-        "detalle": "Estos excepcionales zapatos personifican la fusión de estilo y comodidad en su máxima expresión. Con su diseño elegante y moderno, se destacan en cualquier ocasión, ya sea una reunión de negocios o una salida casual con amigos. Su artesanía meticulosa garantiza durabilidad y ajuste perfecto, brindando un soporte incomparable durante todo el día. La suela ergonómica reduce la fatiga y se adapta a tu pisada, mientras que el material transpirable mantiene tus pies frescos. Estos zapatos no solo son un accesorio de moda, sino también una inversión en tu bienestar. Experimenta la confianza y el confort sin igual que solo estos zapatos pueden ofrecer",
+        "detalle": "En busca de un calzado versátil y atemporal, nuestras zapatillas clásicas son la elección perfecta. Con su diseño intemporal, se adaptan a cualquier ocasión, ya sea una reunión informal o una cena elegante. La comodidad nunca pasa de moda",
         "precio": "150",
         "calificacion": "★★★★"
     }

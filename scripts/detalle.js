@@ -14,9 +14,9 @@ document.addEventListener("DOMContentLoaded", () => {
                     const productHTML = `
                         <h2>${selectedProduct.nombre}</h2>
                         <img src="${selectedProduct.imagen}" alt="${selectedProduct.nombre}">
-                        <p>${selectedProduct.detalle}</p>
+                        <p class="p-detalle">${selectedProduct.detalle}</p>
                         <p>Precio: $${selectedProduct.precio}</p>
-                        <p>Calificacion: ${selectedProduct.calificacion}</p>
+                        <p class="stars">${selectedProduct.calificacion}</p>
                         <a href="index.html">Volver a la página principal</a>
                     `;
                     productDetail.innerHTML = productHTML;
